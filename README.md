@@ -1,6 +1,7 @@
 # Medivault
 
 Medivault is a healthcare management system designed to provide a secure and user-friendly platform for managing patient data, doctor dashboards, medication reminders, and patient interactions. This project integrates modern technologies like React, Vite, and Tailwind CSS for the front end, and uses **Flask** for the backend and **PostgreSQL** as the database.
+This project is ongoing.
 
 ## Features
 
